@@ -1,6 +1,6 @@
 # ⚽ Football Fantasy Manager – Calo Technical Task
 
-A fully functional, production-grade **Football Fantasy Manager** built for Calo’s technical task using a modern and scalable full-stack architecture (Node.js, Sequelize, React, Zustand, Tailwind CSS, MySQL).
+A fully functional, production-grade **Football Fantasy Manager** built for Calo's technical task using a modern and scalable full-stack architecture (Node.js, Sequelize, React, Zustand, Tailwind CSS, MySQL).
 
 > 🔥 All the provided requirements have been fully implemented: from seamless login/registration, automated team creation, to a live transfer market with real-time constraints and validations.
 
@@ -42,49 +42,45 @@ A fully functional, production-grade **Football Fantasy Manager** built for Calo
 ### 📦 Backend (`Node.js`, `Express`, `Sequelize`, `MySQL`)
 
 ```
-
 backend/
 └── src/
-├── config/           # DB config and constants
-├── constants/        # Allowed Origins, messages, status-codes
-├── controllers/      # API route handlers
-├── data/             # Seed data for player generation
-├── dtos/             # Joi validation schemas
-├── middlewares/      # Auth
-├── migrations/       # Sequelize migrations
-├── models/           # Sequelize models
-├── queues/           # In-memory queue implementation
-├── routes/           # Route definitions
-├── services/         # Business logic
-├── types/            # TypeScript types/interfaces
-├── utils/            # Helper utilities
-├── workers/          # Background worker to process queue
-├── app.ts            # Express app setup
-└── server.ts         # App entry point
-
+    ├── config/           # DB config and constants
+    ├── constants/        # Allowed Origins, messages, status-codes
+    ├── controllers/      # API route handlers
+    ├── data/             # Seed data for player generation
+    ├── dtos/             # Joi validation schemas
+    ├── middlewares/      # Auth
+    ├── migrations/       # Sequelize migrations
+    ├── models/           # Sequelize models
+    ├── queues/           # In-memory queue implementation
+    ├── routes/           # Route definitions
+    ├── services/         # Business logic
+    ├── types/            # TypeScript types/interfaces
+    ├── utils/            # Helper utilities
+    ├── workers/          # Background worker to process queue
+    ├── app.ts            # Express app setup
+    └── server.ts         # App entry point
 ```
 
 ### 🌐 Frontend (`React`, `TypeScript`, `Tailwind`, `Zustand`)
 
 ```
-
 frontend/
 └── src/
-├── api/              # Axios services
-├── assets/           # Static files/images
-├── auth/             # Auth and guards
-├── components/       # Reusable UI components
-├── hooks/            # useAuth, usePolling, useDebouncedFilters
-├── layouts/          # App layouts
-├── pages/            # Dashboard and Market views
-├── routes/           # Route definitions
-├── store/            # Zustand stores for market & team
-├── types/            # Frontend types
-├── utils/            # Utility functions
-├── App.tsx           # Main React component
-└── main.tsx          # App entry
-
-````
+    ├── api/              # Axios services
+    ├── assets/           # Static files/images
+    ├── auth/             # Auth and guards
+    ├── components/       # Reusable UI components
+    ├── hooks/            # useAuth, usePolling, useDebouncedFilters
+    ├── layouts/          # App layouts
+    ├── pages/            # Dashboard and Market views
+    ├── routes/           # Route definitions
+    ├── store/            # Zustand stores for market & team
+    ├── types/            # Frontend types
+    ├── utils/            # Utility functions
+    ├── App.tsx           # Main React component
+    └── main.tsx          # App entry
+```
 
 ---
 
@@ -105,12 +101,12 @@ frontend/
    git clone https://github.com/Sheryar-Ahmed/football-manager-task.git
    cd backend
    npm install
-````
+   ```
 
 2. **Start MySQL via XAMPP**
 
-   * Open XAMPP and start the MySQL service.
-   * Create a new database `fantasy_manager` in phpMyAdmin:
+   - Open XAMPP and start the MySQL service.
+   - Create a new database `fantasy_manager` in phpMyAdmin:
 
      ```sql
      CREATE DATABASE fantasy_manager;
@@ -179,26 +175,26 @@ frontend/
 
 ---
 
----
-
 ## 🖼️ Screenshots
 
 ### 🟢 Login/Register
+
 ![Login](./screenshots/unified-login.png)
 
 ### ⚽ Dashboard
+
 Shows team overview, player breakdown, and budget.
 
 ![Dashboard](./screenshots/dashboard.png)
 
 ### 💸 Transfer Market
+
 List, unlist, and buy players with filters and constraints.
 
 ![Transfer Market](./screenshots/market-sell.png)
 ![Transfer Market](./screenshots/market-buy.png)
 
 ---
-
 
 ### 🖼️ Database Architecture
 
@@ -210,14 +206,14 @@ List, unlist, and buy players with filters and constraints.
 
 ## ⚔️ Challenges Faced
 
-| Challenge                | Solution                                                                                         |
-| ------------------------ | ------------------------------------------------------------------------------------------------ |
-| ⏱️ Async Team Creation   | Implemented a custom in-memory queue + background worker service to avoid blocking registration. |
-| 🔐 Unified Auth Flow     | Combined registration and login into a single route intelligently checking if the user exists.   |
-| 📊 Player Role Balancing | Generated role-specific players to ensure 3 GK, 6 DEF, 6 MID, 5 FWD per team.                    |
-| 🛒 Transfer Filtering    | Frontend + backend filtering (by name, team, price) using debounce + query params.               |
-| 🧮 Team Size Enforcement | Checks after each buy/sell to ensure team size remains between 15–25.                            |
-| 🔁 Real-time Updates     | Used polling + Zustand for reactive UI updates in both dashboard and market.                     |
+| Challenge | Solution |
+|-----------|----------|
+| ⏱️ Async Team Creation | Implemented a custom in-memory queue + background worker service to avoid blocking registration. |
+| 🔐 Unified Auth Flow | Combined registration and login into a single route intelligently checking if the user exists. |
+| 📊 Player Role Balancing | Generated role-specific players to ensure 3 GK, 6 DEF, 6 MID, 5 FWD per team. |
+| 🛒 Transfer Filtering | Frontend + backend filtering (by name, team, price) using debounce + query params. |
+| 🧮 Team Size Enforcement | Checks after each buy/sell to ensure team size remains between 15–25. |
+| 🔁 Real-time Updates | Used polling + Zustand for reactive UI updates in both dashboard and market. |
 
 ---
 
@@ -237,9 +233,9 @@ JWT_SECRET=supersecretjwtkey
 
 ## 🎯 Final Notes
 
-✅ Fully implemented all product requirements.
-🧠 Thoughtful architecture using queues and services.
-💡 Clean, type-safe, and maintainable full-stack code.
+✅ Fully implemented all product requirements.  
+🧠 Thoughtful architecture using queues and services.  
+💡 Clean, type-safe, and maintainable full-stack code.  
 🌱 Ready for future growth, CI/CD, and deployment.
 
 ---
@@ -248,5 +244,3 @@ JWT_SECRET=supersecretjwtkey
 
 This project reflects my engineering mindset and product intuition.
 Looking forward to bringing this energy and ownership to **Calo**.
-
----
