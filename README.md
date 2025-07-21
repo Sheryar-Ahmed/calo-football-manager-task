@@ -175,6 +175,24 @@ frontend/
 
 ---
 
+---
+
+## ⏱️ Time Report
+
+| Section                           | Time Spent |
+|----------------------------------|------------|
+| Project Planning & Architecture  | 1.5 hours  |
+| Backend Setup (Auth, DB, API)    | 5 hours    |
+| Frontend Setup & Auth Flow       | 2.5 hours  |
+| Transfer Market Implementation   | 4 hours    |
+| Team Management + Constraints    | 2 hours    |
+| UI/UX Polishing & Responsiveness | 1.5 hours  |
+| Testing & Debugging              | 1 hour     |
+| Demo Recording & README Writing  | 0.5 hour   |
+| **Total**                        | **18 hours** |
+
+---
+
 ## 🖼️ Screenshots
 
 ### 🟢 Login/Register
