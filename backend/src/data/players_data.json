@@ -1,0 +1,2522 @@
+[
+  {
+    "team_id": 1,
+    "team_name": "Team 001",
+    "players": [
+      {
+        "id": "f8660a65-1743-43cd-808c-df34d7a7794d",
+        "name": "Jordan Smith",
+        "position": "Goalkeeper",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "7a9c67f5-c2ed-4673-b23d-962ac9c6c96d",
+        "name": "Finley Miller",
+        "position": "Goalkeeper",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "282ee7f3-3287-4dbb-8ebd-4bb3e7462453",
+        "name": "Blake Miller",
+        "position": "Goalkeeper",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "bbc44f2f-5ebf-4bbe-a6f4-5a98a49ff951",
+        "name": "Reese Thompson",
+        "position": "Defender",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "ed4ddd80-4f32-4a4c-bbb0-a874686a2e08",
+        "name": "Taylor Miller",
+        "position": "Defender",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "8ede7f6f-9f37-4cef-8ca5-4b660c294633",
+        "name": "Peyton Smith",
+        "position": "Defender",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "c89130ef-88a7-496a-9ee9-2674c1711c0a",
+        "name": "Taylor White",
+        "position": "Defender",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "a8076c97-9ced-4b5b-9f40-a700a6fda10c",
+        "name": "Alex Garcia",
+        "position": "Defender",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "2b124d41-53c3-4f94-9160-eb945349755d",
+        "name": "Peyton Jackson",
+        "position": "Defender",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "b25fcf05-92e7-4fe1-bd42-f5d2a71ae25f",
+        "name": "Blake Williams",
+        "position": "Midfielder",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "0c6bb7d2-9217-4d53-92cc-f7b83fbff0b8",
+        "name": "Skyler Harris",
+        "position": "Midfielder",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "0a97158c-5dce-4e23-8cc1-a3fc97fa7ec0",
+        "name": "Drew Williams",
+        "position": "Midfielder",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "39d3bda7-cfe8-483f-84c1-22727c3bdcd0",
+        "name": "Jamie White",
+        "position": "Midfielder",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "0ce4bddc-f140-47a5-b53d-68fc331ddcac",
+        "name": "Peyton Thomas",
+        "position": "Midfielder",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "c24fe455-c23f-4db7-a80f-e8f8abbc27e2",
+        "name": "Cameron Jones",
+        "position": "Midfielder",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "8dc63a06-840b-4223-88c7-904df09fa89d",
+        "name": "Reese Wilson",
+        "position": "Attacker",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "93668e8b-0d12-434b-9b8c-d124e4df2b79",
+        "name": "Logan Garcia",
+        "position": "Attacker",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "800772f0-fad1-4723-a815-8ff771259d1a",
+        "name": "Blake Wilson",
+        "position": "Attacker",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "761060b8-29ba-4837-aa0f-fc4c1ca0fd79",
+        "name": "Riley Moore",
+        "position": "Attacker",
+        "team_name": "Team 001"
+      },
+      {
+        "id": "b4022c9b-9807-4e8c-b98c-19d6188d50bd",
+        "name": "Avery Brown",
+        "position": "Attacker",
+        "team_name": "Team 001"
+      }
+    ]
+  },
+  {
+    "team_id": 2,
+    "team_name": "Team 002",
+    "players": [
+      {
+        "id": "e198c6d6-4575-4da4-990e-d7cc9243135c",
+        "name": "Morgan Moore",
+        "position": "Goalkeeper",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "83f99085-6dbb-4bd1-96c1-bd1e54dbb65f",
+        "name": "Cameron Johnson",
+        "position": "Goalkeeper",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "c8b1dd2c-5ed5-42ec-bb25-9786e97f1ebe",
+        "name": "Peyton Davis",
+        "position": "Goalkeeper",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "a9f1b227-7964-435d-b64f-2688cf1e784a",
+        "name": "Drew White",
+        "position": "Defender",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "e440b996-e682-49a3-8444-162d2fa8264f",
+        "name": "Jamie Jackson",
+        "position": "Defender",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "75964f79-f6b7-4367-9b16-9be7b564f194",
+        "name": "Casey Thompson",
+        "position": "Defender",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "9e4368c8-08ed-4341-abcb-94ecacf2c0b7",
+        "name": "Blake Taylor",
+        "position": "Defender",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "5dbbdd1c-0b26-4014-95c1-d31ad9683c75",
+        "name": "Skyler Anderson",
+        "position": "Defender",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "e5e07ff7-4666-4cca-b277-e1bcd725627b",
+        "name": "Drew Taylor",
+        "position": "Defender",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "b823ed95-39cc-4baf-926a-0e2e579878b4",
+        "name": "Dakota Harris",
+        "position": "Midfielder",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "dd4c3cce-aec1-4afd-bdcb-d93149b52602",
+        "name": "Dakota Thomas",
+        "position": "Midfielder",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "addf38d8-8579-4575-8d0c-c53670fe4485",
+        "name": "Morgan Jackson",
+        "position": "Midfielder",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "76f13301-9447-44e3-962c-782928fa56a2",
+        "name": "Morgan Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "83b6e643-29d2-4120-892a-aa2b908abe80",
+        "name": "Skyler Smith",
+        "position": "Midfielder",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "ba37039c-c91f-4fed-bef6-abacc378e1f3",
+        "name": "Taylor Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "ee42b087-25b2-47e8-b972-b2460cdc9233",
+        "name": "Dakota Jackson",
+        "position": "Attacker",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "f093d707-5a41-4d3f-930c-a81cfb0c0373",
+        "name": "Harley Davis",
+        "position": "Attacker",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "d0e4d60f-d074-465a-8ae8-5b0f683b155b",
+        "name": "Logan Thomas",
+        "position": "Attacker",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "e12e1b90-652e-4970-a114-247a2bbf5556",
+        "name": "Drew Jackson",
+        "position": "Attacker",
+        "team_name": "Team 002"
+      },
+      {
+        "id": "3d4219d5-efeb-4fe0-b27f-d87e421ecf81",
+        "name": "Reese Harris",
+        "position": "Attacker",
+        "team_name": "Team 002"
+      }
+    ]
+  },
+  {
+    "team_id": 3,
+    "team_name": "Team 003",
+    "players": [
+      {
+        "id": "f85483ae-8e4c-4ec1-a860-992c2a0678a8",
+        "name": "Jordan Thomas",
+        "position": "Goalkeeper",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "27246184-6d4a-4bcc-8b2f-ee22cd6df647",
+        "name": "Finley Harris",
+        "position": "Goalkeeper",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "64900b62-0faf-4122-83bb-a229c5d28433",
+        "name": "Harley Brown",
+        "position": "Goalkeeper",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "acef4118-702b-42ec-ad66-581f6a1f80ec",
+        "name": "Finley Garcia",
+        "position": "Defender",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "70d39ec0-54ef-460c-9b4e-5df5845dd061",
+        "name": "Peyton Martin",
+        "position": "Defender",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "e7286c54-c115-42ec-a29d-920fa2585f43",
+        "name": "Cameron Thompson",
+        "position": "Defender",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "8f82a931-6c20-436b-bed1-ae2dfc7adec2",
+        "name": "Taylor Martinez",
+        "position": "Defender",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "cfd23657-17c0-4d7b-ab9f-4dabb0bdf6b9",
+        "name": "Peyton Thompson",
+        "position": "Defender",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "4760d925-9209-4daf-87ac-980f301b29aa",
+        "name": "Jamie Thomas",
+        "position": "Defender",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "74b724fb-c887-4726-85e2-bc6574bec18f",
+        "name": "Finley Martin",
+        "position": "Midfielder",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "534333da-5007-46de-85a7-732c88819e10",
+        "name": "Blake Thompson",
+        "position": "Midfielder",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "ce9248a5-866a-459c-8d3f-f40dbaab9c41",
+        "name": "Cameron Lopez",
+        "position": "Midfielder",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "65693b8c-6015-4ce5-bb86-7a4aa325f770",
+        "name": "Casey Smith",
+        "position": "Midfielder",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "352d503f-9115-4351-8cf8-486ed5977d1f",
+        "name": "Charlie Moore",
+        "position": "Midfielder",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "f6178a44-cf23-4be2-bd7e-36fe3bdefc41",
+        "name": "Dakota Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "7d1a3e6f-9ac3-41ed-8aeb-a71e7db0d5bc",
+        "name": "Avery Thompson",
+        "position": "Attacker",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "fb1f0bd8-a43a-4391-b1bc-5dd9109dfece",
+        "name": "Peyton Moore",
+        "position": "Attacker",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "cb3a8a74-7459-48cc-818a-1330b1790756",
+        "name": "Morgan Davis",
+        "position": "Attacker",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "9da99684-fb6d-41a1-b25b-0cb1d4781c10",
+        "name": "Taylor Moore",
+        "position": "Attacker",
+        "team_name": "Team 003"
+      },
+      {
+        "id": "4c4f021b-25f3-44b9-9f5e-4943db1e6d00",
+        "name": "Riley Thomas",
+        "position": "Attacker",
+        "team_name": "Team 003"
+      }
+    ]
+  },
+  {
+    "team_id": 4,
+    "team_name": "Team 004",
+    "players": [
+      {
+        "id": "c313b9d9-fc80-43da-b118-874ee9e68839",
+        "name": "Riley Johnson",
+        "position": "Goalkeeper",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "41518cdf-6c7c-4446-919c-9f252ed82b32",
+        "name": "Quinn Smith",
+        "position": "Goalkeeper",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "13c84fd5-0462-4cad-b31b-e84fd7c9a3c9",
+        "name": "Logan Wilson",
+        "position": "Goalkeeper",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "b6c2b5ab-0773-4b08-ba24-e4b6282eded8",
+        "name": "Casey Davis",
+        "position": "Defender",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "7c6af809-ac88-4d34-8ddd-2ec2f755a019",
+        "name": "Cameron Martin",
+        "position": "Defender",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "cf1cdee9-ab3a-48cb-b37a-a5a3c4584db0",
+        "name": "Harley Miller",
+        "position": "Defender",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "9e3e2060-9ec2-4988-99b1-8f954bdd7fbd",
+        "name": "Reese Brown",
+        "position": "Defender",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "af3c7cf2-12cd-43b1-9c52-f236087022d5",
+        "name": "Quinn Thomas",
+        "position": "Defender",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "b2be7f8d-754c-4423-b86d-7629506d8319",
+        "name": "Quinn Wilson",
+        "position": "Defender",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "a4873ffa-d32c-4896-930f-39fadffdd0d2",
+        "name": "Morgan Thompson",
+        "position": "Midfielder",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "abb650ac-f9a1-4880-ac72-966d384a2ee5",
+        "name": "Finley Jones",
+        "position": "Midfielder",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "b0826f75-d663-4f78-8fca-c21b42d58ba1",
+        "name": "Harley White",
+        "position": "Midfielder",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "312dac13-3be2-4506-bee8-117107761a3c",
+        "name": "Alex Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "0d96a7d9-b63a-48b6-9053-80db24cae0a8",
+        "name": "Finley Johnson",
+        "position": "Midfielder",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "ea362231-f91a-41bd-bd17-3df67d500bca",
+        "name": "Drew Garcia",
+        "position": "Midfielder",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "f3c3ef23-45bd-446e-bd38-0f07b183290e",
+        "name": "Blake Garcia",
+        "position": "Attacker",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "922e7d6e-c60a-4755-8e5b-a9eec62a7de4",
+        "name": "Harley Williams",
+        "position": "Attacker",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "29c6c0f4-7fec-424c-8cfe-e8d926cf86d8",
+        "name": "Casey Martinez",
+        "position": "Attacker",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "e739b492-061d-40b8-926a-da777beebb01",
+        "name": "Avery Davis",
+        "position": "Attacker",
+        "team_name": "Team 004"
+      },
+      {
+        "id": "d72a704d-9001-4c19-a506-d6319cafa716",
+        "name": "Riley Harris",
+        "position": "Attacker",
+        "team_name": "Team 004"
+      }
+    ]
+  },
+  {
+    "team_id": 5,
+    "team_name": "Team 005",
+    "players": [
+      {
+        "id": "c3a480d5-369f-48b4-93eb-eb5a1c9f48f9",
+        "name": "Skyler Jackson",
+        "position": "Goalkeeper",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "6b22a743-db8e-49e4-8b65-5fffc3dec77e",
+        "name": "Peyton Brown",
+        "position": "Goalkeeper",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "1235a9d8-5aaf-4a22-b4cc-1ab6702eacab",
+        "name": "Drew Moore",
+        "position": "Goalkeeper",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "e56a7bc3-c884-49d5-9c8e-8c4965bd2064",
+        "name": "Morgan Miller",
+        "position": "Defender",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "d2f093ae-8a1c-4a07-90c2-785b07ef5e7a",
+        "name": "Alex Brown",
+        "position": "Defender",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "a9bd3041-6aab-4e3e-815d-7d03251e51a7",
+        "name": "Finley White",
+        "position": "Defender",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "bf5e0bc5-5bfe-441e-a9f0-6f47165f4a3f",
+        "name": "Jordan Johnson",
+        "position": "Defender",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "42ebaddb-cd79-4195-8bd1-1222475d925f",
+        "name": "Drew Brown",
+        "position": "Defender",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "8f35e888-edef-410e-8021-821e83b92df0",
+        "name": "Avery Williams",
+        "position": "Defender",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "1bad1ac5-ff96-40be-9b0b-537b04cf1733",
+        "name": "Drew Thompson",
+        "position": "Midfielder",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "e9af6f14-e6aa-433f-9239-2a8c0ec9ad26",
+        "name": "Riley Garcia",
+        "position": "Midfielder",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "b452d88d-595c-417e-a1e5-97b43ed01fab",
+        "name": "Riley White",
+        "position": "Midfielder",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "3840da81-4cc0-43a1-afcb-5d1bd5b4da8c",
+        "name": "Quinn Taylor",
+        "position": "Midfielder",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "6892eb4f-959b-4fa0-9629-0f8cc6652c0f",
+        "name": "Jordan Miller",
+        "position": "Midfielder",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "2c773345-e8a9-4791-8347-b0ec729068d3",
+        "name": "Morgan Smith",
+        "position": "Midfielder",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "03aeeae3-5883-49bd-aa82-d702e90100db",
+        "name": "Alex Martin",
+        "position": "Attacker",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "1c883b40-cebb-4dda-970b-dba24d063070",
+        "name": "Riley Brown",
+        "position": "Attacker",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "0cef6029-833d-4663-944c-28bae1436f45",
+        "name": "Charlie White",
+        "position": "Attacker",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "3af586b3-3b1b-4dbf-91a9-e52110805a38",
+        "name": "Morgan Brown",
+        "position": "Attacker",
+        "team_name": "Team 005"
+      },
+      {
+        "id": "c8321945-ce25-4843-8f17-b8a1de237646",
+        "name": "Drew Smith",
+        "position": "Attacker",
+        "team_name": "Team 005"
+      }
+    ]
+  },
+  {
+    "team_id": 6,
+    "team_name": "Team 006",
+    "players": [
+      {
+        "id": "43c75c61-164e-42cc-aac3-85be8aac1e88",
+        "name": "Taylor Garcia",
+        "position": "Goalkeeper",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "5a151523-5eb3-4b56-9cd2-9dc5d5788a07",
+        "name": "Casey Garcia",
+        "position": "Goalkeeper",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "7da6dd5b-6c95-4161-a092-b32524c20754",
+        "name": "Quinn Brown",
+        "position": "Goalkeeper",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "bb136855-6bad-43c4-914c-02115a78bade",
+        "name": "Reese Jackson",
+        "position": "Defender",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "98981a3f-c31a-4f7f-9499-61c6727b8d98",
+        "name": "Reese Miller",
+        "position": "Defender",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "0e0d2ba0-773d-47fb-8ba0-7a3245cf82d1",
+        "name": "Jordan Thompson",
+        "position": "Defender",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "c7bdc87e-47a5-4c3d-9e08-7d74499f015d",
+        "name": "Jamie Davis",
+        "position": "Defender",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "6e7950ab-7214-4851-a786-712f49525cb5",
+        "name": "Blake Martin",
+        "position": "Defender",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "0b58a790-7548-4b01-b83a-c0de0356d1f7",
+        "name": "Jordan Jackson",
+        "position": "Defender",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "b8f9709c-5dc5-4af6-9f05-115c6cd5672c",
+        "name": "Logan Johnson",
+        "position": "Midfielder",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "93cfd647-7e2a-44f3-8caa-fdc711e0788c",
+        "name": "Logan Miller",
+        "position": "Midfielder",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "74de7115-a4bd-49ba-8cc7-1d713ce76cfa",
+        "name": "Harley Martin",
+        "position": "Midfielder",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "ea5f28a0-7d26-41ac-bee9-0b17b3e74931",
+        "name": "Harley Jones",
+        "position": "Midfielder",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "a1d0ec76-c613-4eca-b72e-a5fae3290d59",
+        "name": "Dakota Taylor",
+        "position": "Midfielder",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "107015fa-684e-4f6a-912e-c68ff8f1faf4",
+        "name": "Avery Lopez",
+        "position": "Midfielder",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "8dec4a3d-1511-4ca8-bcad-af0a72ed435f",
+        "name": "Finley Williams",
+        "position": "Attacker",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "913fac94-fadf-46dd-85b5-72f7717c90e6",
+        "name": "Reese Taylor",
+        "position": "Attacker",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "326c95c1-13a6-46d1-a33d-6a04a66710c6",
+        "name": "Dakota Johnson",
+        "position": "Attacker",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "fd8d6788-1085-4d4b-92e2-1d4161929b84",
+        "name": "Harley Harris",
+        "position": "Attacker",
+        "team_name": "Team 006"
+      },
+      {
+        "id": "ad767156-a6f0-44bb-8bf1-4cc9f3fb737c",
+        "name": "Harley Thompson",
+        "position": "Attacker",
+        "team_name": "Team 006"
+      }
+    ]
+  },
+  {
+    "team_id": 7,
+    "team_name": "Team 007",
+    "players": [
+      {
+        "id": "502eea8a-58cc-4141-9c73-1aea3a8e06ea",
+        "name": "Alex Jackson",
+        "position": "Goalkeeper",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "f3f7cfac-9345-4216-b50a-125d60637bf2",
+        "name": "Finley Moore",
+        "position": "Goalkeeper",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "9a69d5b4-6b9f-4c38-9dde-eb764d477b11",
+        "name": "Drew Martinez",
+        "position": "Goalkeeper",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "9952b638-b211-41f7-bfd6-a5c41432b707",
+        "name": "Cameron Anderson",
+        "position": "Defender",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "ecf83871-a75a-4cb3-a81f-b22277ba9292",
+        "name": "Dakota Jones",
+        "position": "Defender",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "b44c134b-b493-4bdd-ac51-8bd2689ec8d7",
+        "name": "Logan Martin",
+        "position": "Defender",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "139711a8-5374-427a-b9bb-9600801053d2",
+        "name": "Jordan Taylor",
+        "position": "Defender",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "bdbdd6ef-e048-410b-b489-5561057f3141",
+        "name": "Peyton Wilson",
+        "position": "Defender",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "d655d418-6d22-4bdd-94f4-eeac33aecfb8",
+        "name": "Jamie Martinez",
+        "position": "Defender",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "7526b8ae-55a9-4288-8190-be068d7aa1fa",
+        "name": "Taylor Jones",
+        "position": "Midfielder",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "d821a039-5092-459f-a094-bb27c85dd877",
+        "name": "Alex Miller",
+        "position": "Midfielder",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "a946d5f7-d65f-447d-894c-4cf625014436",
+        "name": "Dakota Lopez",
+        "position": "Midfielder",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "f88af280-6e33-49c7-9ba1-aa6ccf1a59ef",
+        "name": "Casey Harris",
+        "position": "Midfielder",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "f2a3cc7c-f7c6-4fd8-92f3-7581e9d6803d",
+        "name": "Drew Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "a84f3344-0449-42b1-bcf3-92dc567850fd",
+        "name": "Casey Moore",
+        "position": "Midfielder",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "266a98fe-de61-4304-9cd2-2827aaf53a6a",
+        "name": "Finley Lopez",
+        "position": "Attacker",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "fd815fe2-fd03-46da-9723-7c7f75cbdb61",
+        "name": "Reese Martin",
+        "position": "Attacker",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "580c3ae4-dea2-4c93-8a89-4e4654e698e3",
+        "name": "Casey Taylor",
+        "position": "Attacker",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "673baf5c-6af5-45e1-873f-3072f7f80c6c",
+        "name": "Jamie Moore",
+        "position": "Attacker",
+        "team_name": "Team 007"
+      },
+      {
+        "id": "3ba40750-4d2e-4cd9-866b-0d05631296f7",
+        "name": "Skyler Brown",
+        "position": "Attacker",
+        "team_name": "Team 007"
+      }
+    ]
+  },
+  {
+    "team_id": 8,
+    "team_name": "Team 008",
+    "players": [
+      {
+        "id": "e296278b-cd64-462f-b8c7-4273b858998e",
+        "name": "Jordan Brown",
+        "position": "Goalkeeper",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "a6dfab90-c9b5-46a6-a0ef-80701f600dd8",
+        "name": "Charlie Anderson",
+        "position": "Goalkeeper",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "6039538b-fd8d-4c6c-916c-7db462d56ed5",
+        "name": "Peyton Lopez",
+        "position": "Goalkeeper",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "b287961e-d000-435f-9ddf-1229cf97741c",
+        "name": "Morgan Thomas",
+        "position": "Defender",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "40a18e1d-02f8-4180-835a-5a7b4178448b",
+        "name": "Jamie Miller",
+        "position": "Defender",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "5543fb23-10d0-4f91-9d41-00b0fbc90b49",
+        "name": "Dakota Davis",
+        "position": "Defender",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "bc93780d-cbfa-4a61-9922-a41e1aa03db9",
+        "name": "Skyler Martin",
+        "position": "Defender",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "63bdf097-207b-4e8a-91bf-ec1ee3577635",
+        "name": "Harley Thomas",
+        "position": "Defender",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "926687d2-bdf7-4e93-8cbc-b92fee968578",
+        "name": "Charlie Jackson",
+        "position": "Defender",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "9a768531-505c-46df-b6c7-cd33a41cd060",
+        "name": "Charlie Johnson",
+        "position": "Midfielder",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "9ba9ee3f-c8fd-4d8a-895c-ff4d8ba5a9b9",
+        "name": "Avery Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "5389ff12-62d4-4ed8-af52-b5584660d882",
+        "name": "Reese Davis",
+        "position": "Midfielder",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "c4afd6d5-203d-4246-b374-74a797718279",
+        "name": "Taylor Harris",
+        "position": "Midfielder",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "eb28b1f5-9479-46ea-97d5-2585c5436695",
+        "name": "Dakota White",
+        "position": "Midfielder",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "e5b0614f-f4e2-43ae-ac9f-34fe793be539",
+        "name": "Alex Smith",
+        "position": "Midfielder",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "c9bfd69d-6bf7-4f5f-82b5-b18fc4071e7b",
+        "name": "Logan Brown",
+        "position": "Attacker",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "ceba21e5-931f-4db3-afe3-8c94018fa6e8",
+        "name": "Riley Taylor",
+        "position": "Attacker",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "cd2a39eb-2c19-419e-b33a-4eef38273b88",
+        "name": "Blake Davis",
+        "position": "Attacker",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "050221ad-80a8-476e-bcd2-d5c8145424ce",
+        "name": "Jordan Wilson",
+        "position": "Attacker",
+        "team_name": "Team 008"
+      },
+      {
+        "id": "ca015f80-abdf-498f-b472-fc4d07c5a96c",
+        "name": "Jordan Davis",
+        "position": "Attacker",
+        "team_name": "Team 008"
+      }
+    ]
+  },
+  {
+    "team_id": 9,
+    "team_name": "Team 009",
+    "players": [
+      {
+        "id": "e44468dd-e5ed-408e-958e-a7254889b7f0",
+        "name": "Jamie Jones",
+        "position": "Goalkeeper",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "592c204e-c811-4b7b-8085-aaffe5d98628",
+        "name": "Taylor Lopez",
+        "position": "Goalkeeper",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "548d28d1-c6b3-4e87-9a5a-ad1f190d496a",
+        "name": "Dakota Martin",
+        "position": "Goalkeeper",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "5659e74a-6b77-477c-8dbb-07e6a37ce39a",
+        "name": "Peyton Jones",
+        "position": "Defender",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "7bcfcabe-13e7-4caf-a94a-f7b3281b2962",
+        "name": "Cameron Jackson",
+        "position": "Defender",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "7d5ccddb-c678-4683-87c4-7298ef678f58",
+        "name": "Harley Anderson",
+        "position": "Defender",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "1810d5e6-6542-40c8-9898-c0907caa53e3",
+        "name": "Quinn Jones",
+        "position": "Defender",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "a73e85c1-d68e-49f9-99bc-78081e4fe5f9",
+        "name": "Casey Anderson",
+        "position": "Defender",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "403debd1-a9cd-4d81-bed1-9aef0390c507",
+        "name": "Harley Moore",
+        "position": "Defender",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "56f213d6-20d6-4e30-9c24-4ef1bc2d7a48",
+        "name": "Riley Lopez",
+        "position": "Midfielder",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "1ae5c091-9223-4ea5-9d4c-03ea1462a00c",
+        "name": "Logan Davis",
+        "position": "Midfielder",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "4a643b82-2229-4a2c-86cd-bcd6b63da95c",
+        "name": "Drew Davis",
+        "position": "Midfielder",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "51345a87-8deb-466b-9747-b6d3e7730339",
+        "name": "Riley Thompson",
+        "position": "Midfielder",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "7b7d1d86-23cb-4cb9-957f-ccb5f0c97bd0",
+        "name": "Casey Jackson",
+        "position": "Midfielder",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "2e0d2eec-f325-4d54-a150-fb496dffda6c",
+        "name": "Riley Williams",
+        "position": "Midfielder",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "5ba03fb1-4c64-4279-a38b-a8434fdf8a70",
+        "name": "Skyler Martinez",
+        "position": "Attacker",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "7cac384b-a55d-453d-a5bb-fb5f5ff6b1bf",
+        "name": "Skyler Lopez",
+        "position": "Attacker",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "0bef386b-7788-47b1-88f2-6e408fa7807d",
+        "name": "Harley Smith",
+        "position": "Attacker",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "eb82a8c5-8bec-4409-8447-02fcc5bb29c6",
+        "name": "Jordan Martinez",
+        "position": "Attacker",
+        "team_name": "Team 009"
+      },
+      {
+        "id": "fb3f6edb-8b78-4372-a5b2-41e61f0c25b9",
+        "name": "Skyler Thompson",
+        "position": "Attacker",
+        "team_name": "Team 009"
+      }
+    ]
+  },
+  {
+    "team_id": 10,
+    "team_name": "Team 010",
+    "players": [
+      {
+        "id": "ba38c579-f463-40c0-8da4-eb711d0b0d9d",
+        "name": "Logan Thompson",
+        "position": "Goalkeeper",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "c260a18d-1657-4312-9fe7-039440bcaf0d",
+        "name": "Jamie Smith",
+        "position": "Goalkeeper",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "048d6b5c-7749-44a7-ab16-5b8697b18d11",
+        "name": "Harley Martinez",
+        "position": "Goalkeeper",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "4323cf2f-04a7-4386-ad69-3e600e11e8c7",
+        "name": "Jamie Harris",
+        "position": "Defender",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "5fab2d9c-33bc-4a39-9daf-0da2a56b412e",
+        "name": "Jamie Williams",
+        "position": "Defender",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "92879b20-0f42-4a99-85e8-cd35af825265",
+        "name": "Harley Jackson",
+        "position": "Defender",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "a69f1ee2-1604-4cc9-951c-2d8f917bf6c8",
+        "name": "Casey Johnson",
+        "position": "Defender",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "b8785105-a588-4a78-b4d1-afc99506cc71",
+        "name": "Jamie Thompson",
+        "position": "Defender",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "0504e4af-65c5-4f63-806b-aa7f9c09dc7e",
+        "name": "Riley Smith",
+        "position": "Defender",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "0164e8a4-153c-4e34-89f7-5b76197e2923",
+        "name": "Skyler Taylor",
+        "position": "Midfielder",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "1d7c5790-377a-4e91-a31e-9d5268f70868",
+        "name": "Jordan Moore",
+        "position": "Midfielder",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "640e5e08-9e76-434b-b59f-810dac3deeeb",
+        "name": "Avery Thomas",
+        "position": "Midfielder",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "d3e52144-48a0-4e11-9427-1071f05a2878",
+        "name": "Jamie Johnson",
+        "position": "Midfielder",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "b5526c60-ea73-471e-85f3-6287c2522c1f",
+        "name": "Jamie Garcia",
+        "position": "Midfielder",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "9279e325-2995-426d-bf65-cc1567f53dbd",
+        "name": "Taylor Williams",
+        "position": "Midfielder",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "7b8b06d8-29d1-44fb-b08d-71cf22412112",
+        "name": "Quinn Williams",
+        "position": "Attacker",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "282e35dd-ca43-4ade-a24d-0c0245fb5cf3",
+        "name": "Harley Johnson",
+        "position": "Attacker",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "32dab745-1763-4bb6-bded-ae41c387cac1",
+        "name": "Morgan Williams",
+        "position": "Attacker",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "a449287e-4b6f-41bb-89a7-7dcaa06920a1",
+        "name": "Quinn Moore",
+        "position": "Attacker",
+        "team_name": "Team 010"
+      },
+      {
+        "id": "eddd25a2-bc94-4f4b-87d7-792278f28a27",
+        "name": "Peyton Taylor",
+        "position": "Attacker",
+        "team_name": "Team 010"
+      }
+    ]
+  },
+  {
+    "team_id": 11,
+    "team_name": "Team 011",
+    "players": [
+      {
+        "id": "8703afa9-b7b6-4818-af12-58345b679931",
+        "name": "Charlie Smith",
+        "position": "Goalkeeper",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "c8c6b91b-b32b-4906-a7da-900ccd70f591",
+        "name": "Jordan White",
+        "position": "Goalkeeper",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "a1478e53-75be-4cb0-a330-dcc413144e51",
+        "name": "Avery Wilson",
+        "position": "Goalkeeper",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "4f214936-50a6-465c-aef1-92939e918248",
+        "name": "Taylor Taylor",
+        "position": "Defender",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "53fc19d1-44d4-4fca-a5f3-0b3138b59428",
+        "name": "Quinn Miller",
+        "position": "Defender",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "faf51e72-9967-4198-8543-815b8613862f",
+        "name": "Riley Martin",
+        "position": "Defender",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "24792a07-852e-47c9-a99e-034c3c984d56",
+        "name": "Dakota Brown",
+        "position": "Defender",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "85b6394f-fdfd-42d7-a553-53b1d073a661",
+        "name": "Cameron Thomas",
+        "position": "Defender",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "bdd5b946-b2bd-4275-829f-a74e18683269",
+        "name": "Charlie Thompson",
+        "position": "Defender",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "b72b2851-1977-4155-b0f5-15f50dcf5ed9",
+        "name": "Jordan Jones",
+        "position": "Midfielder",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "90241d23-1a60-4c8d-ad71-3a1b41a43179",
+        "name": "Alex Lopez",
+        "position": "Midfielder",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "b8034dfb-bb1e-431d-bfe0-dc79d5b7ae12",
+        "name": "Jamie Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "4b03a356-5ef9-42c9-be52-e2e943a3a33d",
+        "name": "Blake Lopez",
+        "position": "Midfielder",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "73d3f13c-64d1-4d96-97f2-1f6c030f792b",
+        "name": "Quinn Johnson",
+        "position": "Midfielder",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "01b98a6f-dba4-4f9c-b19d-457b6b31f374",
+        "name": "Dakota Miller",
+        "position": "Midfielder",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "ac6a0cb7-f516-4ffd-844e-d6be4d0ae57f",
+        "name": "Drew Thomas",
+        "position": "Attacker",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "3ae4e07c-2aa2-472a-931c-5f0c57216bfb",
+        "name": "Peyton Anderson",
+        "position": "Attacker",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "751b5a95-60bb-475e-809b-8277e86ba0ea",
+        "name": "Reese Lopez",
+        "position": "Attacker",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "9e44c524-5e1e-48be-a116-7ad663e89cf3",
+        "name": "Avery Jones",
+        "position": "Attacker",
+        "team_name": "Team 011"
+      },
+      {
+        "id": "bc4fdaed-3eda-4028-bfd4-bcc3390971d4",
+        "name": "Skyler Johnson",
+        "position": "Attacker",
+        "team_name": "Team 011"
+      }
+    ]
+  },
+  {
+    "team_id": 12,
+    "team_name": "Team 012",
+    "players": [
+      {
+        "id": "8e9b858a-bc82-4b0d-9965-122804b2cfbd",
+        "name": "Drew Miller",
+        "position": "Goalkeeper",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "df7ac6fd-7a78-4d97-b6cf-c992baa6b2ee",
+        "name": "Reese Anderson",
+        "position": "Goalkeeper",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "703fcac6-baec-446c-ac43-82532c448623",
+        "name": "Riley Jackson",
+        "position": "Goalkeeper",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "2bc40873-9189-4fc3-8658-215c48b9a593",
+        "name": "Skyler Garcia",
+        "position": "Defender",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "b935e89d-048c-458e-803a-358ca25e5b0f",
+        "name": "Jamie Brown",
+        "position": "Defender",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "091db4eb-71fc-41e5-b68a-76a69fae90a5",
+        "name": "Quinn Garcia",
+        "position": "Defender",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "a955dbd1-6906-410c-b96d-724fd86132d3",
+        "name": "Charlie Martinez",
+        "position": "Defender",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "61481e21-0e5f-48f9-833a-30ad98b36db4",
+        "name": "Alex Thompson",
+        "position": "Defender",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "8437dad9-91ef-4fca-a8b1-45be06194fec",
+        "name": "Harley Taylor",
+        "position": "Defender",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "076e7e28-768f-4777-9f9e-c630c162e3c4",
+        "name": "Charlie Williams",
+        "position": "Midfielder",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "197b5ddb-ddbc-413a-98f3-5feff9dbd633",
+        "name": "Dakota Williams",
+        "position": "Midfielder",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "b6a84040-22c5-4c07-bbd5-58544ad32429",
+        "name": "Charlie Jones",
+        "position": "Midfielder",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "22e1c676-c520-482d-b81b-ebdb875de5f8",
+        "name": "Dakota Smith",
+        "position": "Midfielder",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "2ecbb503-d25d-4a3d-842a-3ed0499bc1f2",
+        "name": "Peyton Miller",
+        "position": "Midfielder",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "dce4c257-d10b-4f46-ae31-a2b17807efda",
+        "name": "Peyton Harris",
+        "position": "Midfielder",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "19c2645d-9524-46ce-85c5-51608ef2c2cb",
+        "name": "Cameron Williams",
+        "position": "Attacker",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "4caf38ec-ee5a-4c71-8e4a-7be63956f6ef",
+        "name": "Casey Martin",
+        "position": "Attacker",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "c9d44904-662f-4663-8ce2-98a9bc4ffab1",
+        "name": "Charlie Davis",
+        "position": "Attacker",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "8065097c-e060-4603-adf7-2b09f023cf10",
+        "name": "Finley Smith",
+        "position": "Attacker",
+        "team_name": "Team 012"
+      },
+      {
+        "id": "631a4ceb-9a96-42cb-b2d9-5aefcac390f1",
+        "name": "Casey Brown",
+        "position": "Attacker",
+        "team_name": "Team 012"
+      }
+    ]
+  },
+  {
+    "team_id": 13,
+    "team_name": "Team 013",
+    "players": [
+      {
+        "id": "db1270ed-536a-4310-b81f-7efb2c8fe14f",
+        "name": "Avery White",
+        "position": "Goalkeeper",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "0e23cd88-454c-4865-836f-8e364ed3f5f5",
+        "name": "Alex Taylor",
+        "position": "Goalkeeper",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "def3afd5-dbba-4e2a-af1c-0ffeb06dcb62",
+        "name": "Avery Taylor",
+        "position": "Goalkeeper",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "a0846181-5028-4e67-8cda-43fa2171dd96",
+        "name": "Harley Wilson",
+        "position": "Defender",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "2ee35e8a-7396-488f-8f5f-d3db6becf2a3",
+        "name": "Riley Jones",
+        "position": "Defender",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "dbf6aa3a-9a34-4062-98bd-40751b799461",
+        "name": "Peyton Williams",
+        "position": "Defender",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "4f789482-b315-4c4b-9314-1e139edb0d84",
+        "name": "Charlie Harris",
+        "position": "Defender",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "1d08716c-b7ee-4687-835f-a9d8c754f734",
+        "name": "Drew Lopez",
+        "position": "Defender",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "474ea9a1-52dc-467d-a6ec-d015a418a45d",
+        "name": "Riley Wilson",
+        "position": "Defender",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "90c9e28f-67c7-4ef7-8b9d-2413f108e296",
+        "name": "Jamie Taylor",
+        "position": "Midfielder",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "84f766c3-fc3f-4f88-bb1b-086b4eb5fe4f",
+        "name": "Logan Smith",
+        "position": "Midfielder",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "fb315a74-88d5-45b3-abf6-8cba1e489d21",
+        "name": "Alex Williams",
+        "position": "Midfielder",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "885498f3-7eaa-44f1-8db5-b9748ed628a5",
+        "name": "Casey Miller",
+        "position": "Midfielder",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "8678437f-cb32-49fb-9f83-4fb93aee71db",
+        "name": "Jamie Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "690a841e-9e9f-4afc-87c2-3857ac70a271",
+        "name": "Quinn Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "aa351b12-0c34-4f21-8661-6139976e0eca",
+        "name": "Finley Davis",
+        "position": "Attacker",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "56f3e24b-79ec-4a28-b4a5-c0ca19896b7b",
+        "name": "Casey Lopez",
+        "position": "Attacker",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "8f3c59cd-98d7-4347-9434-4b3e53cc6bd5",
+        "name": "Logan Taylor",
+        "position": "Attacker",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "d5a7b4f1-1aef-48de-8ed4-49cbe36cf2cd",
+        "name": "Finley Brown",
+        "position": "Attacker",
+        "team_name": "Team 013"
+      },
+      {
+        "id": "85ebc900-c1d4-4980-8f4d-c6ad77b89a76",
+        "name": "Jordan Lopez",
+        "position": "Attacker",
+        "team_name": "Team 013"
+      }
+    ]
+  },
+  {
+    "team_id": 14,
+    "team_name": "Team 014",
+    "players": [
+      {
+        "id": "06c00e37-86b1-4fdd-a380-b59412e8c972",
+        "name": "Alex White",
+        "position": "Goalkeeper",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "ed0e20c9-1a74-4195-9505-265067d71d6b",
+        "name": "Avery Harris",
+        "position": "Goalkeeper",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "237e11c5-9b4d-459b-8b72-5d3b398cb43b",
+        "name": "Reese Garcia",
+        "position": "Goalkeeper",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "586f59d4-1cae-4472-a58a-84efde453f99",
+        "name": "Avery Johnson",
+        "position": "Defender",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "1c1f5fa4-b7d3-48e0-a4d3-d334eb83cf8a",
+        "name": "Avery Martinez",
+        "position": "Defender",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "cae736ea-f990-454f-9ae6-e0380a5d23eb",
+        "name": "Dakota Martinez",
+        "position": "Defender",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "66c747fa-39e5-487a-ad52-93dd5449f29f",
+        "name": "Avery Martin",
+        "position": "Defender",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "2d712323-983d-45cf-b7a7-4d52b539d52f",
+        "name": "Charlie Wilson",
+        "position": "Defender",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "e79dc22d-6d6b-4b9e-b340-be42b9f2edb9",
+        "name": "Blake Martinez",
+        "position": "Defender",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "d38ba9fb-dc7d-4396-8386-697a19935f4d",
+        "name": "Cameron Brown",
+        "position": "Midfielder",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "a6e97be3-d96e-422e-890e-c5a01a0c6592",
+        "name": "Casey White",
+        "position": "Midfielder",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "fc278d66-32d1-4025-bcaf-98b16e5a5f6b",
+        "name": "Blake Johnson",
+        "position": "Midfielder",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "89d32c09-0139-4c09-87b1-790be43ed79e",
+        "name": "Logan Williams",
+        "position": "Midfielder",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "0b93fc13-1b81-41d5-99c7-00db2a6e46a6",
+        "name": "Jordan Williams",
+        "position": "Midfielder",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "6e8d8a9c-9072-4715-a518-c6a0f6caa6e9",
+        "name": "Finley Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "f2c327fd-6b68-4b8d-9ece-bda9654b4d8a",
+        "name": "Reese Moore",
+        "position": "Attacker",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "8fdeacd1-054e-4dcb-84a9-28c9fae892fc",
+        "name": "Taylor Martin",
+        "position": "Attacker",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "f7a383d9-ebfc-45f6-8c9a-2cbf60fc1520",
+        "name": "Reese Johnson",
+        "position": "Attacker",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "e07a72d6-d5b7-48f2-934f-c7939b49f4c9",
+        "name": "Quinn White",
+        "position": "Attacker",
+        "team_name": "Team 014"
+      },
+      {
+        "id": "a750c725-3e16-47d2-9ea2-69854029bf25",
+        "name": "Skyler White",
+        "position": "Attacker",
+        "team_name": "Team 014"
+      }
+    ]
+  },
+  {
+    "team_id": 15,
+    "team_name": "Team 015",
+    "players": [
+      {
+        "id": "f6a9c5a2-5f6c-4b9b-8b08-ca03cdea79ee",
+        "name": "Blake White",
+        "position": "Goalkeeper",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "15799090-040d-4380-bac2-5e2ee53c395b",
+        "name": "Riley Martinez",
+        "position": "Goalkeeper",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "7d8bd762-1d79-4bdd-b4cf-8c7e63cf540d",
+        "name": "Blake Anderson",
+        "position": "Goalkeeper",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "eca9c9e7-4c2c-4de5-acbf-f306b33281f1",
+        "name": "Drew Anderson",
+        "position": "Defender",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "5efdd84d-305f-4c8c-ae3e-6d0fed447ffd",
+        "name": "Cameron White",
+        "position": "Defender",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "3695910d-1170-4f65-a541-cbac743e646b",
+        "name": "Peyton Johnson",
+        "position": "Defender",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "993ffd58-dbcb-4bcb-83a8-c5e03590e3ed",
+        "name": "Jamie Lopez",
+        "position": "Defender",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "7b97de1e-6f8a-49d2-9270-da2ad011a8ab",
+        "name": "Charlie Lopez",
+        "position": "Defender",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "f8150abc-a442-47f2-9a79-bc01440519ec",
+        "name": "Peyton Martinez",
+        "position": "Defender",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "78563284-0c08-487a-8aa8-4c6f5f9a9fd1",
+        "name": "Skyler Thomas",
+        "position": "Midfielder",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "15941d57-a742-43ca-a653-ad5e3fe7add7",
+        "name": "Charlie Garcia",
+        "position": "Midfielder",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "29dad455-d74c-4c30-9c8a-9339f8d4b14a",
+        "name": "Alex Thomas",
+        "position": "Midfielder",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "7d92e43b-ab76-4e78-a53b-3015bcd618fc",
+        "name": "Blake Jones",
+        "position": "Midfielder",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "18c86f3c-e323-42dd-bc82-eb65b4874d72",
+        "name": "Taylor Davis",
+        "position": "Midfielder",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "5e2a95f6-1ce6-4b58-915d-a369ccad03a9",
+        "name": "Charlie Thomas",
+        "position": "Midfielder",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "16b1e38d-709d-4d71-ac42-94e3e0b7a2a6",
+        "name": "Cameron Davis",
+        "position": "Attacker",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "e58f0e17-c3cf-435c-8153-101edd9f8ec3",
+        "name": "Dakota Moore",
+        "position": "Attacker",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "9add0bd7-b100-49ad-9190-57f5634664bc",
+        "name": "Jordan Martin",
+        "position": "Attacker",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "7c97b910-e2d7-4bc7-aea5-4fa1d5b5612b",
+        "name": "Taylor Johnson",
+        "position": "Attacker",
+        "team_name": "Team 015"
+      },
+      {
+        "id": "25f1dd94-9a90-40b5-87ec-dd0e284987b4",
+        "name": "Peyton Garcia",
+        "position": "Attacker",
+        "team_name": "Team 015"
+      }
+    ]
+  },
+  {
+    "team_id": 16,
+    "team_name": "Team 016",
+    "players": [
+      {
+        "id": "8b4b4c77-e307-427c-a991-45bb3f5acf86",
+        "name": "Morgan White",
+        "position": "Goalkeeper",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "526ce769-e684-414d-8bf3-2edcde0c520b",
+        "name": "Reese Martinez",
+        "position": "Goalkeeper",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "bbf644ed-f219-4e28-b729-8ba5c35e4f28",
+        "name": "Taylor Thomas",
+        "position": "Goalkeeper",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "16635841-d718-449c-9123-14fdaa383f9f",
+        "name": "Peyton White",
+        "position": "Defender",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "9e880fee-7dbe-4986-858a-edb5e1e353d1",
+        "name": "Harley Garcia",
+        "position": "Defender",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "fa59358e-f87c-42c5-a4cb-f88c731cee3f",
+        "name": "Alex Anderson",
+        "position": "Defender",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "693f6035-0eb6-4764-b952-79a2ae223730",
+        "name": "Reese Jones",
+        "position": "Defender",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "f3ddb9aa-5b64-428e-94c5-014d2ecbf5c6",
+        "name": "Casey Thomas",
+        "position": "Defender",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "87d42789-c521-4676-8515-72d0e756b4cf",
+        "name": "Quinn Davis",
+        "position": "Defender",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "a0f1f176-4983-4042-b17f-baeccd9cc3f2",
+        "name": "Reese White",
+        "position": "Midfielder",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "eb47849f-546f-4d8c-ab70-15be463b4097",
+        "name": "Quinn Lopez",
+        "position": "Midfielder",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "5accb742-b744-4c58-ab06-990b28834169",
+        "name": "Cameron Miller",
+        "position": "Midfielder",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "23c8f2bb-33cf-4685-a2bd-f6f62bb897b5",
+        "name": "Blake Harris",
+        "position": "Midfielder",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "08c1b56e-141d-42a0-8b2a-54d3e90632ed",
+        "name": "Skyler Williams",
+        "position": "Midfielder",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "2292d538-0af7-4efc-bf22-d4ed701a026c",
+        "name": "Reese Williams",
+        "position": "Midfielder",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "50755be7-08b2-4b4d-913d-4d2c5f30cc40",
+        "name": "Casey Jones",
+        "position": "Attacker",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "78424a8a-0153-49ec-868e-90cf92128151",
+        "name": "Cameron Garcia",
+        "position": "Attacker",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "73389ff6-4a0e-4c34-98e3-174127fc8f90",
+        "name": "Skyler Davis",
+        "position": "Attacker",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "ad7e3237-69ad-4ede-9752-db3e55b2de67",
+        "name": "Avery Smith",
+        "position": "Attacker",
+        "team_name": "Team 016"
+      },
+      {
+        "id": "1dae69f5-7f2b-4504-8fd6-a3ff5f8aecab",
+        "name": "Drew Martin",
+        "position": "Attacker",
+        "team_name": "Team 016"
+      }
+    ]
+  },
+  {
+    "team_id": 17,
+    "team_name": "Team 017",
+    "players": [
+      {
+        "id": "9d75f0cd-f335-4506-9037-673cd76582bb",
+        "name": "Alex Johnson",
+        "position": "Goalkeeper",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "8d810cf8-5f33-4497-87dc-501a52af6950",
+        "name": "Quinn Thompson",
+        "position": "Goalkeeper",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "a50fc187-5213-48c5-978b-4c153aa54a75",
+        "name": "Blake Brown",
+        "position": "Goalkeeper",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "f9d0f014-809a-4b43-9795-a99b31ed3920",
+        "name": "Charlie Miller",
+        "position": "Defender",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "a1f26518-8ad7-49d1-87b2-fafb3a876c6c",
+        "name": "Alex Martinez",
+        "position": "Defender",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "becddecb-6b7f-48db-8f93-7f617e66a71e",
+        "name": "Dakota Thompson",
+        "position": "Defender",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "422edf8c-10a6-44b0-8ad0-18c4b751d9a7",
+        "name": "Skyler Moore",
+        "position": "Defender",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "8497dada-2871-42c2-b542-4977f83d93bc",
+        "name": "Blake Thomas",
+        "position": "Defender",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "8c4ec85c-6ef7-46fa-a05f-9f24d04865df",
+        "name": "Logan Moore",
+        "position": "Defender",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "1ad4c347-a853-4524-b9d3-711dd994262c",
+        "name": "Finley Thomas",
+        "position": "Midfielder",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "1db71372-0937-4a0f-ae0f-d56c1a8660b7",
+        "name": "Skyler Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "146a9907-aa7d-4ff6-a80b-555a3143b1bd",
+        "name": "Riley Miller",
+        "position": "Midfielder",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "627ae949-6101-4dd9-9367-42664321783c",
+        "name": "Alex Jones",
+        "position": "Midfielder",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "0fbcb96d-c4e0-4681-82cc-82d46d439391",
+        "name": "Cameron Martinez",
+        "position": "Midfielder",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "750ce455-6898-4354-bb04-79b0fe47e7ee",
+        "name": "Morgan Martinez",
+        "position": "Midfielder",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "7ac25d12-8696-44bd-9184-89711b3af039",
+        "name": "Drew Harris",
+        "position": "Attacker",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "a5e8e6ce-4e6a-4bd5-bdae-6453cc594092",
+        "name": "Finley Anderson",
+        "position": "Attacker",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "9929b809-a7d6-437e-b9a6-8abf422ae5cf",
+        "name": "Finley Jackson",
+        "position": "Attacker",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "c7e1c07d-0b89-4633-9861-1ade9fa031e6",
+        "name": "Harley Lopez",
+        "position": "Attacker",
+        "team_name": "Team 017"
+      },
+      {
+        "id": "71121203-a809-40ec-9ef6-528500ca6cf3",
+        "name": "Charlie Taylor",
+        "position": "Attacker",
+        "team_name": "Team 017"
+      }
+    ]
+  },
+  {
+    "team_id": 18,
+    "team_name": "Team 018",
+    "players": [
+      {
+        "id": "e6c58bac-517b-4bb6-a89c-fb56a14c9289",
+        "name": "Morgan Harris",
+        "position": "Goalkeeper",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "cdabe499-e951-49f6-a85c-8920744caea4",
+        "name": "Jordan Harris",
+        "position": "Goalkeeper",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "e6c1f0a1-134a-4874-8f0c-8bdd09096615",
+        "name": "Alex Davis",
+        "position": "Goalkeeper",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "d562eab1-120b-49d5-9dac-79f34a49869d",
+        "name": "Taylor Wilson",
+        "position": "Defender",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "71c2f8b4-ea3e-4d95-b4cd-3fc39c35b6d2",
+        "name": "Logan Lopez",
+        "position": "Defender",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "acd3c04d-037a-4ffb-afc5-6bab051b4dfd",
+        "name": "Skyler Miller",
+        "position": "Defender",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "4f12e3ce-e5a8-48fa-8973-4403eb2523c6",
+        "name": "Morgan Lopez",
+        "position": "Defender",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "9dc616ed-002a-48c8-9ec0-cc71caa31f8d",
+        "name": "Finley Taylor",
+        "position": "Defender",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "7692c20e-6f15-4ce3-b13a-7418f36a0173",
+        "name": "Morgan Martin",
+        "position": "Defender",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "e163360a-09d9-4e7a-864e-3842fc4c11e7",
+        "name": "Riley Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "87aa8c66-b928-474c-9990-b5e7671b0c17",
+        "name": "Casey Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "d3831f47-47d5-4557-8d4f-082177b39ce4",
+        "name": "Morgan Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "6b55bdca-c1c6-47a7-a8d8-c8b1e790346b",
+        "name": "Blake Moore",
+        "position": "Midfielder",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "64e177fb-f2a4-4ae4-8a4e-ef5d3ff5336d",
+        "name": "Blake Smith",
+        "position": "Midfielder",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "b73730e3-3479-4713-a12b-049550a1c7da",
+        "name": "Morgan Taylor",
+        "position": "Midfielder",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "e127b609-bad6-44ab-8bf1-62641bab5889",
+        "name": "Taylor Smith",
+        "position": "Attacker",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "3ab8ba1d-8e35-47cc-bf56-28bf21923869",
+        "name": "Blake Jackson",
+        "position": "Attacker",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "c0f14a30-e100-466d-b788-05fab17746e6",
+        "name": "Drew Johnson",
+        "position": "Attacker",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "0605b7e9-d790-45d1-8a5f-376bd8f3eef3",
+        "name": "Taylor Brown",
+        "position": "Attacker",
+        "team_name": "Team 018"
+      },
+      {
+        "id": "6629d4a5-9517-4397-933a-694ab8113cc1",
+        "name": "Logan White",
+        "position": "Attacker",
+        "team_name": "Team 018"
+      }
+    ]
+  },
+  {
+    "team_id": 19,
+    "team_name": "Team 019",
+    "players": [
+      {
+        "id": "62f12f13-4444-437f-b048-440f5aa80d85",
+        "name": "Casey Williams",
+        "position": "Goalkeeper",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "75c85e59-0f65-4098-a30b-9dbc7330cd2a",
+        "name": "Quinn Jackson",
+        "position": "Goalkeeper",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "b931e35d-c9b6-4bc6-becd-a7ebd9c2747b",
+        "name": "Reese Smith",
+        "position": "Goalkeeper",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "50fcc8c4-76df-40d6-8388-72760fed4846",
+        "name": "Quinn Martinez",
+        "position": "Defender",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "a2c9dccc-b300-433b-8782-7fa5b5f85e04",
+        "name": "Charlie Martin",
+        "position": "Defender",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "edeaa0e6-6687-404e-a022-684f3905fb80",
+        "name": "Cameron Moore",
+        "position": "Defender",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "254907db-220d-43d8-935f-36f2b004726a",
+        "name": "Drew Jones",
+        "position": "Defender",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "7b90e5b3-b15a-4091-8778-ec3f1fe79d85",
+        "name": "Morgan Garcia",
+        "position": "Defender",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "f30d286a-7937-4399-9a8e-778ca7c998d4",
+        "name": "Finley Martinez",
+        "position": "Defender",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "e3be2a54-a288-4dff-8f5b-9bd6eae7aa64",
+        "name": "Quinn Martin",
+        "position": "Midfielder",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "08cc72f5-237c-4ed2-9522-cc5e9731cdbd",
+        "name": "Jordan Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "1a81501d-e671-47ba-85e1-04ce8647ca79",
+        "name": "Cameron Wilson",
+        "position": "Midfielder",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "cd5f9d0e-3a7e-4087-9012-1f3438d1d334",
+        "name": "Avery Jackson",
+        "position": "Midfielder",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "b0850e8a-1a74-4cf1-be69-bf271b53aba9",
+        "name": "Logan Anderson",
+        "position": "Midfielder",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "ab27a898-4a12-4384-ab05-d18439fdbe30",
+        "name": "Avery Garcia",
+        "position": "Midfielder",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "90a6915b-0ecc-4999-b5f3-441373b51ac7",
+        "name": "Morgan Johnson",
+        "position": "Attacker",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "94d9dcc6-91fe-4137-85fe-de23eba66690",
+        "name": "Jamie Martin",
+        "position": "Attacker",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "30587816-c786-4dc1-8ed8-5a3b9e059c36",
+        "name": "Logan Harris",
+        "position": "Attacker",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "74f5c5d5-1e17-413f-8dc4-cc42fc89a406",
+        "name": "Logan Jackson",
+        "position": "Attacker",
+        "team_name": "Team 019"
+      },
+      {
+        "id": "feeb457c-d1d0-45c2-a11b-220af408f0bb",
+        "name": "Reese Thomas",
+        "position": "Attacker",
+        "team_name": "Team 019"
+      }
+    ]
+  },
+  {
+    "team_id": 20,
+    "team_name": "Team 020",
+    "players": [
+      {
+        "id": "6ee306b2-b2f6-4e63-a6bb-89f854a01306",
+        "name": "Taylor Jackson",
+        "position": "Goalkeeper",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "74992195-9b89-4fa9-85eb-b8aab7516603",
+        "name": "Alex Harris",
+        "position": "Goalkeeper",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "d0cdb0e4-8c5e-47ee-a741-7fba9b6d0017",
+        "name": "Avery Moore",
+        "position": "Goalkeeper",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "99a879b4-42f3-454b-9256-39ac1e5441b8",
+        "name": "Cameron Smith",
+        "position": "Defender",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "e5c6e5d4-d729-44e1-842d-bf6e8deeb885",
+        "name": "Quinn Harris",
+        "position": "Defender",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "7482adb3-42c9-4818-adbe-bea8db948bd9",
+        "name": "Dakota Garcia",
+        "position": "Defender",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "6244b906-3fbf-4cf3-a962-f7d317358e91",
+        "name": "Logan Jones",
+        "position": "Defender",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "f7245a87-f793-48d1-a58c-1bfbb68479c8",
+        "name": "Cameron Harris",
+        "position": "Defender",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "54a48387-3017-45a3-872f-47424543a6ff",
+        "name": "Logan Martinez",
+        "position": "Defender",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "694bf45b-c450-4e29-8e31-6220878293c4",
+        "name": "Cameron Taylor",
+        "position": "Midfielder",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "ccde0c53-df41-49ee-bc2a-37e59f9f0bbb",
+        "name": "Taylor Thompson",
+        "position": "Midfielder",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "cfc072a2-c329-4a8b-9584-1f1d48c62519",
+        "name": "Charlie Brown",
+        "position": "Midfielder",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "58969e81-fcf0-4e4b-b0e4-97f4d23a4218",
+        "name": "Jordan Garcia",
+        "position": "Midfielder",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "3c915d4c-6a19-42fd-a228-3d4079c574f6",
+        "name": "Skyler Jones",
+        "position": "Midfielder",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "cd6cf953-65be-4fb5-a7dd-6cbc34636a55",
+        "name": "Morgan Jones",
+        "position": "Midfielder",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "1a66d72d-c28e-4133-a74c-7b42127cc62e",
+        "name": "Finley Thompson",
+        "position": "Attacker",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "3a47a2d6-5ea1-4a6e-86e7-f3e0eb4bac45",
+        "name": "Dakota Wilson",
+        "position": "Attacker",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "92651b41-3ae4-4f27-9eaf-ece95aaa6627",
+        "name": "Avery Miller",
+        "position": "Attacker",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "b40b3b92-3f7f-4d2c-93c1-304c17a9836e",
+        "name": "Alex Moore",
+        "position": "Attacker",
+        "team_name": "Team 020"
+      },
+      {
+        "id": "40dc9ffe-e4e1-4e31-a1f1-a2db06c2c284",
+        "name": "Riley Davis",
+        "position": "Attacker",
+        "team_name": "Team 020"
+      }
+    ]
+  }
+]
