@@ -262,3 +262,13 @@ JWT_SECRET=supersecretjwtkey
 
 This project reflects my engineering mindset and product intuition.
 Looking forward to bringing this energy and ownership to **Calo**.
+
+---
+
+## 📝 License & Usage
+
+This project is proprietary and was developed solely for the purpose of Calo’s technical task.
+
+The source code, assets, and related materials are not licensed for general use or distribution and may not be copied, modified, or reused without explicit permission.
+
+© 2025 Sheryar Ahmed – All rights reserved.
