@@ -3,87 +3,14 @@
 A fully functional, production-grade **Football Fantasy Manager** built for Calo's technical task using a modern and scalable full-stack architecture (Node.js, Sequelize, React, Zustand, Tailwind CSS, MySQL).
 
 > 🔥 All the provided requirements have been fully implemented: from seamless login/registration, automated team creation, to a live transfer market with real-time constraints and validations.
-
 ---
-
-## 🚀 Features Overview
-
-- 🧾 **Single Flow Auth** – Unified registration & login with JWT.
-- 🧠 **Background Team Creation** – 20-player auto-generation post-registration with roles & budget handled via a custom in-memory job queue and worker.
-- 🛒 **Transfer Market** – List/unlist players, set asking prices, and buy players from other teams (at 95% of the price).
-- 🔎 **Filtering** – Transfer listing supports filters by team, name, and price.
-- ⚖️ **Team Constraints** – Team size enforced between 15–25 players.
-- 🖥️ **Dashboard** – Player breakdown, budget, and readiness status.
-
----
-
 ## 🎥 Demo
 
 > Watch a quick walkthrough of the Football Fantasy Manager in action!
 
 [🔗 Click to watch the demo on Loom](https://www.loom.com/share/d6a1a4199c034f1190326ab7895ac43e?sid=448c8384-3016-43d2-93ef-1b68655c1427)
 
-## 🧰 Tech Stack
-
-- **Frontend**: React, TypeScript, Tailwind CSS, Zustand
-- **Backend**: Node.js, Express, Sequelize, MySQL
-- **Auth**: JWT (Unified login/register)
-- **Tools**: Vite, Axios, Joi, XAMPP
-
-## 🔄 How It Works
-
-1. New users register or log in via a unified auth flow.
-2. A background worker creates a new team of 20 players with role/budget constraints.
-3. The dashboard shows player distribution, budget, and readiness.
-4. The transfer market allows listing, filtering, and buying players with team-size validation.
-
-## 🧱 Folder Structure
-
-### 📦 Backend (`Node.js`, `Express`, `Sequelize`, `MySQL`)
-
-```
-backend/
-└── src/
-    ├── config/           # DB config and constants
-    ├── constants/        # Allowed Origins, messages, status-codes
-    ├── controllers/      # API route handlers
-    ├── data/             # Seed data for player generation
-    ├── dtos/             # Joi validation schemas
-    ├── middlewares/      # Auth
-    ├── migrations/       # Sequelize migrations
-    ├── models/           # Sequelize models
-    ├── queues/           # In-memory queue implementation
-    ├── routes/           # Route definitions
-    ├── services/         # Business logic
-    ├── types/            # TypeScript types/interfaces
-    ├── utils/            # Helper utilities
-    ├── workers/          # Background worker to process queue
-    ├── app.ts            # Express app setup
-    └── server.ts         # App entry point
-```
-
-### 🌐 Frontend (`React`, `TypeScript`, `Tailwind`, `Zustand`)
-
-```
-frontend/
-└── src/
-    ├── api/              # Axios services
-    ├── assets/           # Static files/images
-    ├── auth/             # Auth and guards
-    ├── components/       # Reusable UI components
-    ├── hooks/            # useAuth, usePolling, useDebouncedFilters
-    ├── layouts/          # App layouts
-    ├── pages/            # Dashboard and Market views
-    ├── routes/           # Route definitions
-    ├── store/            # Zustand stores for market & team
-    ├── types/            # Frontend types
-    ├── utils/            # Utility functions
-    ├── App.tsx           # Main React component
-    └── main.tsx          # App entry
-```
-
 ---
-
 ## 🛠️ Setup Guide
 
 ### 🔧 Requirements
@@ -175,8 +102,6 @@ frontend/
 
 ---
 
----
-
 ## ⏱️ Time Report
 
 | Section                           | Time Spent |
@@ -192,6 +117,76 @@ frontend/
 | **Total**                        | **18 hours** |
 
 ---
+
+## 🚀 Features Overview
+
+- 🧾 **Single Flow Auth** – Unified registration & login with JWT.
+- 🧠 **Background Team Creation** – 20-player auto-generation post-registration with roles & budget handled via a custom in-memory job queue and worker.
+- 🛒 **Transfer Market** – List/unlist players, set asking prices, and buy players from other teams (at 95% of the price).
+- 🔎 **Filtering** – Transfer listing supports filters by team, name, and price.
+- ⚖️ **Team Constraints** – Team size enforced between 15–25 players.
+- 🖥️ **Dashboard** – Player breakdown, budget, and readiness status.
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: React, TypeScript, Tailwind CSS, Zustand
+- **Backend**: Node.js, Express, Sequelize, MySQL
+- **Auth**: JWT (Unified login/register)
+- **Tools**: Vite, Axios, Joi, XAMPP
+
+## 🔄 How It Works
+
+1. New users register or log in via a unified auth flow.
+2. A background worker creates a new team of 20 players with role/budget constraints.
+3. The dashboard shows player distribution, budget, and readiness.
+4. The transfer market allows listing, filtering, and buying players with team-size validation.
+
+## 🧱 Folder Structure
+
+### 📦 Backend (`Node.js`, `Express`, `Sequelize`, `MySQL`)
+
+```
+backend/
+└── src/
+    ├── config/           # DB config and constants
+    ├── constants/        # Allowed Origins, messages, status-codes
+    ├── controllers/      # API route handlers
+    ├── data/             # Seed data for player generation
+    ├── dtos/             # Joi validation schemas
+    ├── middlewares/      # Auth
+    ├── migrations/       # Sequelize migrations
+    ├── models/           # Sequelize models
+    ├── queues/           # In-memory queue implementation
+    ├── routes/           # Route definitions
+    ├── services/         # Business logic
+    ├── types/            # TypeScript types/interfaces
+    ├── utils/            # Helper utilities
+    ├── workers/          # Background worker to process queue
+    ├── app.ts            # Express app setup
+    └── server.ts         # App entry point
+```
+
+### 🌐 Frontend (`React`, `TypeScript`, `Tailwind`, `Zustand`)
+
+```
+frontend/
+└── src/
+    ├── api/              # Axios services
+    ├── assets/           # Static files/images
+    ├── auth/             # Auth and guards
+    ├── components/       # Reusable UI components
+    ├── hooks/            # useAuth, usePolling, useDebouncedFilters
+    ├── layouts/          # App layouts
+    ├── pages/            # Dashboard and Market views
+    ├── routes/           # Route definitions
+    ├── store/            # Zustand stores for market & team
+    ├── types/            # Frontend types
+    ├── utils/            # Utility functions
+    ├── App.tsx           # Main React component
+    └── main.tsx          # App entry
+```
 
 ## 🖼️ Screenshots
 
