@@ -3,8 +3,6 @@
 
 # Ignore all .env files in any folder
 **/.env
-**/.env.*
-
 # Ignore build outputs (optional)
 **/dist/
 **/build/
