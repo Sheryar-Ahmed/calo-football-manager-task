@@ -1,2 +1,3 @@
-require('ts-node/register'); // Enables TypeScript runtime
-module.exports = require('./src/config/sequalize.config.ts'); // Loads your actual TS config
+require("ts-node/register");
+const config = require("./sequelize.config.ts").default;
+module.exports = config;
