@@ -546,10 +546,10 @@ I'm actively seeking full-stack engineering roles where I can:
 - 📈 Contribute to product strategy and technical roadmaps
 
 **Let's connect!**  
-📧 sheryar.ahmed@example.com  
+📧 royalsheryar505@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/sheryar-ahmed)  
 🐙 [GitHub](https://github.com/Sheryar-Ahmed)  
-📱 [Portfolio](https://sheryar-portfolio.com)
+📱 [Portfolio](https://sheryarahmed.netlify.com)
 
 ---
 
